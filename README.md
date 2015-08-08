@@ -1,9 +1,9 @@
 # BasykPlugin
-One of Minecraft's best features is its multiplayer functionality. Custom Server Software like Bukkit and Spigot make it much easier to add new functionality to multiplayer (Commands, Gameplay, Etc).
+One of [Minecraft](https://minecraft.net/)'s best features is its multiplayer functionality. Custom Server Software like [Bukkit](http://bukkit.org/) and [Spigot](https://www.spigotmc.org/) make it much easier to add new functionality to multiplayer (Commands, Gameplay, Etc).
 
 This plugin allows me to add new functionality to Minecraft inside of the game, by scripting right into the world. Using this tiny plugin, anyone can add new commands to the world in seconds, without having to search for a pre-existing, pre-compiled plugin.
 
-The language is stack-based, and converts infix notation to RPN to execute the code. An example of a program is : 
+The language is stack-based, and converts [infix notation](https://en.wikipedia.org/wiki/Infix_notation) to [reverse polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation) to execute the code. An example of a program is : 
 ```
 {
     Engine|me;    //Makes the Engine Select You As the Current Player
