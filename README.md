@@ -26,3 +26,9 @@ A more complex program might be like this :
 Write code into books. Summon a book with the chat command `#Code` and you can run the book code with `#Run` or punching with the book in hand. 
 
 You can execute functions in a command line by putting a `# Code Here`.
+
+---
+
+### Todo 
+
+There are major updates that need to be released. The language was migrated completely to reverse polish notation for total consistency and clarity. There are also many other features that were added to this plugin, like world loading and multi-world support.
